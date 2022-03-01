@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SortListInteger": {
+      "commandName": "Project",
+      "commandLineArgs": "10"
+    }
+  }
+}
